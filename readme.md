@@ -5,4 +5,4 @@
 - To call data from an object you would do something like `object.type`
   - Which might return something like `text`
 - As usual it might be worth trying to play around with the data in console before digging in
-- ¯\_(ツ)_/¯
+- ¯\\_(ツ)_/¯
